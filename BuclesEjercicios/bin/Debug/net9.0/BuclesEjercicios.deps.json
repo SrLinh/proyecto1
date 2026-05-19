@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BuclesEjercicios/1.0.0": {
+        "runtime": {
+          "BuclesEjercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuclesEjercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

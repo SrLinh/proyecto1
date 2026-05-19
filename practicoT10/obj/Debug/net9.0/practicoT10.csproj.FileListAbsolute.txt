@@ -1,0 +1,14 @@
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\practicoT10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\practicoT10.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\practicoT10.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\practicoT10.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\bin\Debug\net9.0\practicoT10.exe
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\bin\Debug\net9.0\practicoT10.deps.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\bin\Debug\net9.0\practicoT10.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\bin\Debug\net9.0\practicoT10.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\bin\Debug\net9.0\practicoT10.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\practicoT10.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\refint\practicoT10.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\practicoT10.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\practicoT10.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\practicoT10\obj\Debug\net9.0\ref\practicoT10.dll

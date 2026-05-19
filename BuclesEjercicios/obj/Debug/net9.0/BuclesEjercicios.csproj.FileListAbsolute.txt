@@ -1,0 +1,14 @@
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\bin\Debug\net9.0\BuclesEjercicios.exe
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\bin\Debug\net9.0\BuclesEjercicios.deps.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\bin\Debug\net9.0\BuclesEjercicios.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\bin\Debug\net9.0\BuclesEjercicios.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\bin\Debug\net9.0\BuclesEjercicios.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\BuclesEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\BuclesEjercicios.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\BuclesEjercicios.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\BuclesEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\BuclesEjercicios.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\refint\BuclesEjercicios.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\BuclesEjercicios.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\BuclesEjercicios.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\BuclesEjercicios\obj\Debug\net9.0\ref\BuclesEjercicios.dll

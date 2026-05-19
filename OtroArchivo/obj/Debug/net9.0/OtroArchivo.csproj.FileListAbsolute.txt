@@ -1,0 +1,14 @@
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\bin\Debug\net9.0\OtroArchivo.exe
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\bin\Debug\net9.0\OtroArchivo.deps.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\bin\Debug\net9.0\OtroArchivo.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\bin\Debug\net9.0\OtroArchivo.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\bin\Debug\net9.0\OtroArchivo.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\OtroArchivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\OtroArchivo.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\OtroArchivo.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\OtroArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\OtroArchivo.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\refint\OtroArchivo.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\OtroArchivo.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\OtroArchivo.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\OtroArchivo\obj\Debug\net9.0\ref\OtroArchivo.dll

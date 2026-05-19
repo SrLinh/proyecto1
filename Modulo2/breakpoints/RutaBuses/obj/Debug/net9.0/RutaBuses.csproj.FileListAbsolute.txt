@@ -1,0 +1,14 @@
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\bin\Debug\net9.0\RutaBuses.exe
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\bin\Debug\net9.0\RutaBuses.deps.json
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\bin\Debug\net9.0\RutaBuses.runtimeconfig.json
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\bin\Debug\net9.0\RutaBuses.dll
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\bin\Debug\net9.0\RutaBuses.pdb
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\RutaBuses.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\RutaBuses.AssemblyInfoInputs.cache
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\RutaBuses.AssemblyInfo.cs
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\RutaBuses.csproj.CoreCompileInputs.cache
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\RutaBuses.dll
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\refint\RutaBuses.dll
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\RutaBuses.pdb
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\RutaBuses.genruntimeconfig.cache
+c:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo2\breakpoints\RutaBuses\obj\Debug\net9.0\ref\RutaBuses.dll

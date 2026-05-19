@@ -1,0 +1,14 @@
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\bin\Debug\net9.0\CadenaTextoAvanzada.exe
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\bin\Debug\net9.0\CadenaTextoAvanzada.deps.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\bin\Debug\net9.0\CadenaTextoAvanzada.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\bin\Debug\net9.0\CadenaTextoAvanzada.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\bin\Debug\net9.0\CadenaTextoAvanzada.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\CadenaTextoAvanzada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\CadenaTextoAvanzada.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\CadenaTextoAvanzada.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\CadenaTextoAvanzada.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\CadenaTextoAvanzada.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\refint\CadenaTextoAvanzada.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\CadenaTextoAvanzada.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\CadenaTextoAvanzada.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\CadenaTextoAvanzada\obj\Debug\net9.0\ref\CadenaTextoAvanzada.dll

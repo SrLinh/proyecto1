@@ -1,0 +1,14 @@
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\InventarioT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\InventarioT3.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\InventarioT3.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\InventarioT3.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\bin\Debug\net9.0\InventarioT3.exe
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\bin\Debug\net9.0\InventarioT3.deps.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\bin\Debug\net9.0\InventarioT3.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\bin\Debug\net9.0\InventarioT3.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\bin\Debug\net9.0\InventarioT3.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\InventarioT3.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\refint\InventarioT3.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\InventarioT3.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\InventarioT3.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\InventarioT3\obj\Debug\net9.0\ref\InventarioT3.dll

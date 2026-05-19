@@ -1,0 +1,3 @@
+Reporte de venta
+Producto: mouse
+cantidad 32

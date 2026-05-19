@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SistemaNotas</name>
+    </assembly>
+    <members>
+        <member name="M:SistemaNotas.ArchivoService.GuardarDesdeConsola(SistemaNotas.RegistroNotas)">
+            <summary>
+            The function "GuardarDesdeConsola" saves a "RegistroNotas" object from the console.
+            </summary>
+            <param name="RegistroNotas">The parameter `RegistroNotas` seems to be a class or data structure
+            related to storing notes or records. In the context of your method `GuardarDesdeConsola`, it
+            appears that you are trying to save or store some data from the console input into an instance
+            of the `RegistroNotas`</param>
+        </member>
+        <member name="M:SistemaNotas.ArchivoService.CargarDesdeConsola(SistemaNotas.RegistroNotas)">
+            <summary>
+             muestra los datos del archivo estudiantes.txt
+            </summary>
+            <param name="registro"> objeto que guarda la informacion  </param>
+            <remarks> </remarks>
+        </member>
+        <member name="M:SistemaNotas.ArchivoService.GuardarEstudiantes(System.String,SistemaNotas.Estudiante[])">
+            <summary>
+            
+            </summary>
+            <param name="rutaArchivo"></param>
+            <param name="estudiantes"></param>
+            <exception cref="T:SistemaNotas.NotaException"></exception>
+        </member>
+        <member name="M:SistemaNotas.ArchivoService.LeerEstudiantes(System.String)">
+            <summary>
+            This C# function reads and returns an array of students from a specified file path.
+            </summary>
+            <param name="rutaArchivo">The parameter "rutaArchivo" is a string that represents the file path
+            where the data of students is stored. This function "LeerEstudiantes" is likely intended to read
+            and parse the data from the specified file to create an array of student objects.</param>
+        </member>
+        <member name="M:SistemaNotas.ArchivoService.ConvertirLineaAEstudiante(System.String)">
+            <summary>
+            This C# function takes a string input and converts it into an object of type Estudiante
+            (Student).
+            </summary>
+            <param name="linea">The parameter "linea" in the method "ConvertirLineaAEstudiante" seems to
+            represent a string that contains information about a student. This method likely converts this
+            string into an object of type "Estudiante" (Student).</param>
+        </member>
+        <member name="M:SistemaNotas.EstudianteService.RegistrarEstudiante(SistemaNotas.RegistroNotas)">
+            <summary>
+            solicita la informacion del estudiante
+            </summary>
+            <param name="registro">guarda la iformacion para llevarla a registro notas</param>
+        </member>
+    </members>
+</doc>

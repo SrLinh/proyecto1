@@ -1,0 +1,14 @@
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\bin\Debug\net9.0\leertexto.exe
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\bin\Debug\net9.0\leertexto.deps.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\bin\Debug\net9.0\leertexto.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\bin\Debug\net9.0\leertexto.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\bin\Debug\net9.0\leertexto.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\leertexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\leertexto.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\leertexto.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\leertexto.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\leertexto.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\refint\leertexto.dll
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\leertexto.pdb
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\leertexto.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Documents\proyecto1\Modulo2\leertexto\obj\Debug\net9.0\ref\leertexto.dll
