@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\registroEstudiantes.csproj": {}
+    "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\registroEstudiantes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\registroEstudiantes.csproj": {
+    "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\registroEstudiantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\registroEstudiantes.csproj",
+        "projectUniqueName": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\registroEstudiantes.csproj",
         "projectName": "registroEstudiantes",
-        "projectPath": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\registroEstudiantes.csproj",
+        "projectPath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\registroEstudiantes.csproj",
         "packagesPath": "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\obj\\",
+        "outputPath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\registroEstudiantes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

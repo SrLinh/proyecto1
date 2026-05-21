@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\InventarioEncapsulado.csproj": {}
+    "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\InventarioEncapsulado.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\InventarioEncapsulado.csproj": {
+    "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\InventarioEncapsulado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\InventarioEncapsulado.csproj",
+        "projectUniqueName": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\InventarioEncapsulado.csproj",
         "projectName": "InventarioEncapsulado",
-        "projectPath": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\InventarioEncapsulado.csproj",
+        "projectPath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\InventarioEncapsulado.csproj",
         "packagesPath": "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\obj\\",
+        "outputPath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\InventarioEncapsulado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
