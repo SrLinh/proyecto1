@@ -1,0 +1,15 @@
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\bin\Debug\net10.0\Ahorcado.exe
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\bin\Debug\net10.0\Ahorcado.deps.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\bin\Debug\net10.0\Ahorcado.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\bin\Debug\net10.0\Ahorcado.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\bin\Debug\net10.0\Ahorcado.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\Ahorcado.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\Ahorcado.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\Ahorcado.sourcelink.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\Ahorcado.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\refint\Ahorcado.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\Ahorcado.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\Ahorcado.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\Ahorcado\obj\Debug\net10.0\ref\Ahorcado.dll
