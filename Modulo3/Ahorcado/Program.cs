@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.Metadata;
 
 
 struct Jugador
@@ -12,6 +13,17 @@ class Palabra
     //Manejar la palabra a adivinar
     //Verificar intentos
     static private string ruta = "palabras.txt";
+
+    static string PalabraAleatoria()
+    {
+        string [] palabras = File.ReadAllLines(ruta);
+        int largoPalabras = palabras.Length;
+        Random random = new Random();
+        int numAleatorio = random.Next(largoPalabras);
+        string palabraAleatoria = palabras[numAleatorio];
+
+        return palabraAleatoria;
+    }
     public static void Archivo()
     {
         if (!File.Exists(ruta))
@@ -19,12 +31,19 @@ class Palabra
             Console.WriteLine("Creando archivo de palabras...");
             File.WriteAllText(ruta, "");
         }
+        Console.WriteLine(PalabraAleatoria());
+    }
+
+    public static int Intentos()
+    {
+        int i = PalabraAleatoria().Length;
+        return i*2;
     }
 }
 
 class Tablero
 {
-    //Manejar intentos restantes+
+    //Manejar intentos restantes+ 
 }
 
 class Partida
