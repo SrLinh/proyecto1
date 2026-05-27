@@ -12,9 +12,9 @@ class Palabra
 {
     //Manejar la palabra a adivinar
     //Verificar intentos
-    static private string ruta = "palabras.txt";
+    static public string ruta = "palabras.txt";
 
-    static string PalabraAleatoria()
+    public static string PalabraAleatoria()
     {
         string [] palabras = File.ReadAllLines(ruta);
         int largoPalabras = palabras.Length;
@@ -31,7 +31,7 @@ class Palabra
             Console.WriteLine("Creando archivo de palabras...");
             File.WriteAllText(ruta, "");
         }
-        Console.WriteLine(PalabraAleatoria());
+        PalabraAleatoria();
     }
 
     public static int Intentos()
@@ -50,6 +50,8 @@ class Partida
 {
     //Logica de juego
     //incluye turnos y cambios de puntuacion
+    
+    
 }
 
 class Juego
@@ -74,5 +76,7 @@ class Program
     static void Main (string [] args)
     {
         Palabra.Archivo();
+        Palabra.PalabraAleatoria();
+
     }
 }
