@@ -1,0 +1,15 @@
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\bin\Debug\net10.0\practicoT4.exe
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\bin\Debug\net10.0\practicoT4.deps.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\bin\Debug\net10.0\practicoT4.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\bin\Debug\net10.0\practicoT4.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\bin\Debug\net10.0\practicoT4.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\practicoT4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\practicoT4.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\practicoT4.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\practicoT4.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\practicoT4.sourcelink.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\practicoT4.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\refint\practicoT4.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\practicoT4.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\practicoT4.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT4\obj\Debug\net10.0\ref\practicoT4.dll

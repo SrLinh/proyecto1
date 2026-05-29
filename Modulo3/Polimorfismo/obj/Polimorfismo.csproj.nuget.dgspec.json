@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\Polimorfismo.csproj": {}
+    "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\Polimorfismo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\Polimorfismo.csproj": {
+    "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\Polimorfismo.csproj",
+        "projectUniqueName": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\Polimorfismo.csproj",
         "projectName": "Polimorfismo",
-        "projectPath": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\Polimorfismo.csproj",
+        "projectPath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\Polimorfismo.csproj",
         "packagesPath": "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\obj\\",
+        "outputPath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
