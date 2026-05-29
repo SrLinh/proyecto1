@@ -1,0 +1,15 @@
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\practicoT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\practicoT5.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\practicoT5.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\practicoT5.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\practicoT5.sourcelink.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\bin\Debug\net10.0\practicoT5.exe
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\bin\Debug\net10.0\practicoT5.deps.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\bin\Debug\net10.0\practicoT5.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\bin\Debug\net10.0\practicoT5.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\bin\Debug\net10.0\practicoT5.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\practicoT5.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\refint\practicoT5.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\practicoT5.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\practicoT5.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\practicoT5\obj\Debug\net10.0\ref\practicoT5.dll
