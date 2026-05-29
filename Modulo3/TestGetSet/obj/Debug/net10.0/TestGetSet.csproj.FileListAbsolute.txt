@@ -1,0 +1,15 @@
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\bin\Debug\net10.0\TestGetSet.exe
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\bin\Debug\net10.0\TestGetSet.deps.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\bin\Debug\net10.0\TestGetSet.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\bin\Debug\net10.0\TestGetSet.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\bin\Debug\net10.0\TestGetSet.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\TestGetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\TestGetSet.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\TestGetSet.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\TestGetSet.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\TestGetSet.sourcelink.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\TestGetSet.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\refint\TestGetSet.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\TestGetSet.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\TestGetSet.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Modulo3\TestGetSet\obj\Debug\net10.0\ref\TestGetSet.dll
