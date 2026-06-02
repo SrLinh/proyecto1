@@ -1,0 +1,29 @@
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.exe
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.deps.json
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.runtimeconfig.json
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.dll
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.pdb
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.AssemblyInfoInputs.cache
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.AssemblyInfo.cs
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.dll
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\refint\SistemaProductosGUI.dll
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.pdb
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.genruntimeconfig.cache
+C:\Users\Vanessa\Downloads\Laboratorios_WinForms_CSharp_Codigo\Laboratorios_WinForms_CSharp_Codigo\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\ref\SistemaProductosGUI.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.exe
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.deps.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.runtimeconfig.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\bin\Debug\net10.0-windows\SistemaProductosGUI.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.AssemblyInfoInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.AssemblyInfo.cs
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.sourcelink.json
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\refint\SistemaProductosGUI.dll
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.pdb
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\SistemaProductosGUI.genruntimeconfig.cache
+C:\Users\Estudiante.PC01E21\Desktop\proyecto1\Descargas\Ejercicio -20260602T151414Z-3-001\Ejercicio\Lab01_SistemaProductos_Comentado\obj\Debug\net10.0-windows\ref\SistemaProductosGUI.dll
