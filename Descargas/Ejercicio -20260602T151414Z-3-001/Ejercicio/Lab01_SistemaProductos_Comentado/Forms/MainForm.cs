@@ -47,7 +47,7 @@ public class MainForm : Form
     };
 
     // Constructor del formulario. Se ejecuta al crear la ventana.
-    public MainForm()
+    public MainForm() 
     {
         // Configura propiedades generales de la ventana.
         Text = "Sistema de productos";
