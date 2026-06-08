@@ -30,7 +30,7 @@ public class DbStoreContext : DbContext
     /// <summary>
     /// Representa la tabla SaleDetails dentro de Entity Framework.
     /// Permite consultar, agregar, modificar y eliminar detalles de venta.
-    /// </summary>
+    /// </summary> 
     public DbSet<SaleDetail> SaleDetails { get; set; }
 
     /// <summary>
