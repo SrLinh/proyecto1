@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UIws3lDqlOg=",
+  "dgSpecHash": "AUlvk20v+Ek=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo2\\CadenaTextoAvanzada\\CadenaTextoAvanzada.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
-    "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.15\\microsoft.windowsdesktop.app.ref.9.0.15.nupkg.sha512",
-    "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.15\\microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
-    "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.15\\microsoft.netcore.app.host.win-x64.9.0.15.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/linares/proyecto1/Modulo2/CadenaTextoAvanzada/CadenaTextoAvanzada.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
