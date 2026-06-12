@@ -1,6 +1,0 @@
-{
-    "editor.suggest.insertMode": "insert",
-    "editor.snippetSuggestions": "top",
-    "editor.tabCompletion": "on",
-    "editor.acceptSuggestionOnCommitCharacter": true
-}
