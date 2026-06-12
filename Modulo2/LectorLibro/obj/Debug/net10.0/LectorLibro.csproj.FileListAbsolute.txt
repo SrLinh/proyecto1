@@ -1,0 +1,15 @@
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/LectorLibro.GeneratedMSBuildEditorConfig.editorconfig
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/LectorLibro.AssemblyInfoInputs.cache
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/LectorLibro.AssemblyInfo.cs
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/LectorLibro.csproj.CoreCompileInputs.cache
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/LectorLibro.sourcelink.json
+/home/linares/proyecto1/Modulo2/LectorLibro/bin/Debug/net10.0/LectorLibro
+/home/linares/proyecto1/Modulo2/LectorLibro/bin/Debug/net10.0/LectorLibro.deps.json
+/home/linares/proyecto1/Modulo2/LectorLibro/bin/Debug/net10.0/LectorLibro.runtimeconfig.json
+/home/linares/proyecto1/Modulo2/LectorLibro/bin/Debug/net10.0/LectorLibro.dll
+/home/linares/proyecto1/Modulo2/LectorLibro/bin/Debug/net10.0/LectorLibro.pdb
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/LectorLibro.dll
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/refint/LectorLibro.dll
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/LectorLibro.pdb
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/LectorLibro.genruntimeconfig.cache
+/home/linares/proyecto1/Modulo2/LectorLibro/obj/Debug/net10.0/ref/LectorLibro.dll
