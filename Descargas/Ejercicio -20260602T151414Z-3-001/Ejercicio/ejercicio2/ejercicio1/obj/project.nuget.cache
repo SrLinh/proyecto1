@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rLddJNtUIQQ=",
+  "dgSpecHash": "II3n+G4W4/A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Descargas\\Ejercicio -20260602T151414Z-3-001\\Ejercicio\\ejercicio2\\ejercicio1\\ejercicio1.csproj",
+  "projectFilePath": "/home/linares/proyecto1/Descargas/Ejercicio -20260602T151414Z-3-001/Ejercicio/ejercicio2/ejercicio1/ejercicio1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.8\\microsoft.win32.systemevents.10.0.8.nupkg.sha512",
-    "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\system.drawing.common\\10.0.8\\system.drawing.common.10.0.8.nupkg.sha512"
+    "/home/linares/.nuget/packages/microsoft.win32.systemevents/10.0.8/microsoft.win32.systemevents.10.0.8.nupkg.sha512",
+    "/home/linares/.nuget/packages/system.drawing.common/10.0.8/system.drawing.common.10.0.8.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "C/xlORMMS6Q=",
+  "dgSpecHash": "dxrQuaPU5Sk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\Evaluacion\\Evaluacion01\\Evaluacion01.csproj",
+  "projectFilePath": "/home/linares/proyecto1/Modulo3/Evaluacion/Evaluacion01/Evaluacion01.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.8\\microsoft.win32.systemevents.10.0.8.nupkg.sha512",
-    "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\system.drawing.common\\10.0.8\\system.drawing.common.10.0.8.nupkg.sha512"
+    "/home/linares/.nuget/packages/microsoft.win32.systemevents/10.0.8/microsoft.win32.systemevents.10.0.8.nupkg.sha512",
+    "/home/linares/.nuget/packages/system.drawing.common/10.0.8/system.drawing.common.10.0.8.nupkg.sha512"
   ],
   "logs": []
 }

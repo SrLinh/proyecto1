@@ -7,15 +7,16 @@ class Program
 {
     static void Main(string [] args)
     {
-         Estudiante E1 = new Estudiante();
-         E1.InsertarDatos();
+        AdministracionEstudiante estudiante = new AdministracionEstudiante();
+        estudiante.Registrar();
+        estudiante.Menu();
     }
 }
 
 class Estudiante
 {
     public
-     string Codigo;
+    string Codigo;
     public string Nombre;
     public string Correo;
     public string Carrera;
@@ -124,7 +125,7 @@ class Estudiante
 
 class AdministracionEstudiante
 {
-    public Estudiante[] estudiantes {get; private set;}
+    public Estudiante[]? estudiantes {get; private set;}
     public int cantidadEstudiantes;
     public void Registrar()
     {
@@ -142,21 +143,43 @@ class AdministracionEstudiante
     public void MostrarEstudiante()
     {
         int i = 0;
-        foreach (Estudiante estudiante in Estudiante)
+        foreach (Estudiante estudiante in estudiantes)
         {
-            Console.WriteLine($"Estudiante {++1}: {estudiante.Codigo} {estudiante.Nombre}");
+            Console.WriteLine($"Estudiante {++i}: {estudiante.Codigo} {estudiante.Nombre}");
             Console.WriteLine(estudiante.frase);
         }
     }
 
     public void BuscarCodigo()
     {
-        string codigoBuscar = int.Parse(Console.ReadLine());
-        foreach (Estudiante estudiante in Estudiante)
+        string? codigoBuscar = Console.ReadLine();
+        Console.WriteLine("Buscando estudiante...");
+        foreach (Estudiante estudiante in estudiantes)
         {
-            estudiante.Codigo;
+            if (codigoBuscar == estudiante.Codigo)
+            {
+                Console.WriteLine($"{estudiante.Nombre} | {estudiante.Carrera}");
+                Console.WriteLine($"{estudiante.frase}");
+            }
         }
     }
+
+    public void BuscarFrase()
+    {
+        string? fraseBuscar = Console.ReadLine();
+        Console.WriteLine("Buscando coincidencias...");
+        foreach (Estudiante estudiante in estudiantes)
+        {
+            string? fraseEstudiante = estudiante.frase ;
+            if (fraseEstudiante.Contains(fraseBuscar))
+            {
+                
+            }
+        }
+        
+    }
+
+
     public void Menu()
     {
         Registrar();
@@ -179,20 +202,16 @@ class AdministracionEstudiante
             {
                 case 1:
                     Console.WriteLine("Mostrando todos los estudiantes...");
-                    // Llamar método aquí
+                    MostrarEstudiante();
                     break;
 
                 case 2:
                     Console.Write("Ingresa el código: ");
-                    string codigo = Console.ReadLine();
-                    Console.WriteLine("Buscando estudiante...");
-                    // Llamar método con codigo
+                    BuscarCodigo();
                     break;
 
                 case 3:
                     Console.Write("Ingresa palabra a buscar: ");
-                    string palabra = Console.ReadLine();
-                    Console.WriteLine("Buscando coincidencias...");
                     // Llamar método
                     break;
 

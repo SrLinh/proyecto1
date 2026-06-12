@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\DBStoreEntityFramework\\DBStoreEntityFramework.csproj": {}
+    "/home/linares/proyecto1/Modulo3/DBStoreEntityFramework/DBStoreEntityFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\DBStoreEntityFramework\\DBStoreEntityFramework.csproj": {
+    "/home/linares/proyecto1/Modulo3/DBStoreEntityFramework/DBStoreEntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\DBStoreEntityFramework\\DBStoreEntityFramework.csproj",
+        "projectUniqueName": "/home/linares/proyecto1/Modulo3/DBStoreEntityFramework/DBStoreEntityFramework.csproj",
         "projectName": "DBStoreEntityFramework",
-        "projectPath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\DBStoreEntityFramework\\DBStoreEntityFramework.csproj",
-        "packagesPath": "C:\\Users\\Estudiante.PC01E21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudiante.PC01E21\\Desktop\\proyecto1\\Modulo3\\DBStoreEntityFramework\\obj\\",
+        "projectPath": "/home/linares/proyecto1/Modulo3/DBStoreEntityFramework/DBStoreEntityFramework.csproj",
+        "packagesPath": "/home/linares/.nuget/packages/",
+        "outputPath": "/home/linares/proyecto1/Modulo3/DBStoreEntityFramework/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Estudiante.PC01E21\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/linares/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -73,20 +67,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.26, 8.0.26]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.27, 8.0.27]"
             }
           ],
           "frameworkReferences": {
@@ -94,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
