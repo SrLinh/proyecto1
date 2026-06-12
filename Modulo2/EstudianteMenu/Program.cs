@@ -14,15 +14,13 @@ class Program
 
 class Estudiante
 {
-    public string Codigo;
+    public
+     string Codigo;
     public string Nombre;
     public string Correo;
     public string Carrera;
     public string frase;
-    public int opcion;
     public bool insertValido;
-    public int registroEstudiantes;
-    public int[,] Estudiantes;
 
     public void InsertarDatos()
 
@@ -30,11 +28,6 @@ class Estudiante
         bool InsertValido = false;
         while (!InsertValido)
         {
-            int limiteDatos = 5;
-            Console.WriteLine("Ingresa la cantidad estudiantes que registrarás: ");
-            registroEstudiantes = Convert.ToInt32(Console.ReadLine());
-            Estudiantes = new int[registroEstudiantes, limiteDatos];
-            
             Console.WriteLine("Ingresa codigo de estudiante: ");
             Codigo = Console.ReadLine();
             if (!ValidarCodigo(Codigo))
@@ -77,11 +70,8 @@ class Estudiante
 
     public bool ValidarCodigo(string codigo)
     {
-        if (!codigo.StartsWith("STU-"))
-        {
-            return false;
-        }
-        if (codigo.Length != 8)
+        if (!codigo.StartsWith("STU-")
+            & codigo.Length != 8)
         {
             return false;
         }
@@ -97,7 +87,11 @@ class Estudiante
     }
     public bool ValidarCorreo(string correo)
     {
-        return correo.Contains("@") && !correo.Contains(" ") && (correo.EndsWith(".com") || correo.EndsWith(".edu") || correo.EndsWith(".sv"));
+        return correo.Contains("@") 
+        && !correo.Contains(" ") 
+        && (correo.EndsWith(".com") 
+        || correo.EndsWith(".edu") 
+        || correo.EndsWith(".sv"));
     }
     public bool ValidarCarrera(string carrera)
     {
@@ -124,8 +118,48 @@ class Estudiante
         }
         return true;
     }
+    
+}
+
+
+class AdministracionEstudiante
+{
+    public Estudiante[] estudiantes {get; private set;}
+    public int cantidadEstudiantes;
+    public void Registrar()
+    {
+        Console.WriteLine("Ingresa la cantidad de estudiante que ingresaras");
+        cantidadEstudiantes = int.Parse(Console.ReadLine());
+        estudiantes = new Estudiante[cantidadEstudiantes];
+
+        for (int i = 0; i < cantidadEstudiantes; i++)
+        {
+            estudiantes[i] = new Estudiante();
+            estudiantes[i].InsertarDatos();
+        }
+    }
+
+    public void MostrarEstudiante()
+    {
+        int i = 0;
+        foreach (Estudiante estudiante in Estudiante)
+        {
+            Console.WriteLine($"Estudiante {++1}: {estudiante.Codigo} {estudiante.Nombre}");
+            Console.WriteLine(estudiante.frase);
+        }
+    }
+
+    public void BuscarCodigo()
+    {
+        string codigoBuscar = int.Parse(Console.ReadLine());
+        foreach (Estudiante estudiante in Estudiante)
+        {
+            estudiante.Codigo;
+        }
+    }
     public void Menu()
     {
+        Registrar();
         int opcion = 0;
 
         while (opcion != 8)
@@ -198,4 +232,7 @@ class Estudiante
             }
         }
     }
+
+
+
 }

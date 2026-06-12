@@ -15,6 +15,14 @@ class Program
     
     static void Main (string [] args)
     {
+        //Cadenas.TextoAvanzado();
+        Cadenas.TextoTest();
+    }
+}
+class Cadenas
+{
+    public static void TextoAvanzado()
+    {
         Console.WriteLine("Ingresa texto 1");
         string texto = Console.ReadLine();
         Console.WriteLine("ingresa texto 2");
@@ -62,6 +70,19 @@ class Program
         Console.WriteLine("\nReplace:");
         string reemplazado = texto.Replace("divertida", "interesante");
         Console.WriteLine(reemplazado);
-    
     }
-} 
+
+    public static void TextoTest()
+    {
+        Console.WriteLine("Ingresa el texot");
+        string Texto = Console.ReadLine();
+
+        //El paremetro dentro de substring es basicamente para decir que extraiga
+        //lo que este despues de la posicion señalada
+        Console.WriteLine(Texto.Substring(1));
+        int i = 0;
+        Console.WriteLine(i++);
+        Console.WriteLine($"{++i}");
+        Console.WriteLine(i);
+    }
+}
