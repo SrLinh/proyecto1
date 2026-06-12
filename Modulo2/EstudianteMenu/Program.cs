@@ -8,7 +8,6 @@ class Program
     static void Main(string [] args)
     {
         AdministracionEstudiante estudiante = new AdministracionEstudiante();
-        estudiante.Registrar();
         estudiante.Menu();
     }
 }
@@ -166,17 +165,82 @@ class AdministracionEstudiante
 
     public void BuscarFrase()
     {
-        string? fraseBuscar = Console.ReadLine();
+        string? fraseBuscar = Console.ReadLine().ToLower();
         Console.WriteLine("Buscando coincidencias...");
         foreach (Estudiante estudiante in estudiantes)
         {
-            string? fraseEstudiante = estudiante.frase ;
+            string? fraseEstudiante = estudiante.frase.ToLower() ;
             if (fraseEstudiante.Contains(fraseBuscar))
             {
-                
+                Console.WriteLine($"{estudiante.Codigo} | {estudiante.Nombre} | {estudiante.Carrera}");
+                Console.WriteLine($"{estudiante.frase}");
             }
         }
-        
+    }
+
+    public void frasesVocales()
+    {
+        foreach (Estudiante estudiante in estudiantes)
+        {
+            int contador = 0;
+            string frase = estudiante.frase;
+            foreach (char c in frase.ToLower())
+            {
+                if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
+                {
+                    ++contador;
+                }
+            }
+            Console.WriteLine($"La frase '{estudiante.frase}'");
+            Console.WriteLine($"Contiene {contador} vocales.");
+        }
+    }
+
+    public void frasesLargo()
+    {
+        foreach (Estudiante estudiante in estudiantes)
+        {
+            string palabraLarga = "";
+            string frase = estudiante.frase;
+            string[] frasePalabras = frase.Split(' ');
+            int ilargo = 0;
+
+            foreach (string palabra in frasePalabras)
+            {
+                int largo = palabra.Length;
+                if (largo > ilargo)
+                {
+                    ilargo = largo;
+                    palabraLarga = palabra;
+                }
+            }
+            Console.WriteLine($"De la frase : '{estudiante.frase}'");
+            Console.WriteLine($"La palabra más larga es: '{palabraLarga}'");
+        }
+    }
+
+    public void frasesReemplazo()
+    {
+        Console.WriteLine("Palabra que deseas cambiar:");
+        string? reemplazar = Console.ReadLine();
+        Console.WriteLine("Palabra que la reemplazará: ");
+        string? reemplazo = Console.ReadLine();
+
+        foreach (Estudiante estudiante in estudiantes)
+        {
+            if (estudiante.frase.Contains(reemplazar))
+            {
+                Console.WriteLine($"Estudiante:");
+                Console.WriteLine("Frase original:");
+                string? fraseReemplazada = estudiante.frase.Replace(reemplazar, reemplazo);
+                Console.WriteLine("Frase con palabra reemplazada: ");
+                Console.WriteLine(fraseReemplazada);
+            }
+            else
+            {
+                Console.WriteLine($"El estudiante {estudiante.Codigo} | {estudiante.Nombre} no tiene esa palabra es un frase");
+            }
+        }
     }
 
 
@@ -212,17 +276,17 @@ class AdministracionEstudiante
 
                 case 3:
                     Console.Write("Ingresa palabra a buscar: ");
-                    // Llamar método
+                    BuscarFrase();
                     break;
 
                 case 4:
                     Console.WriteLine("Contando vocales...");
-                    // Llamar método
+                    frasesVocales();
                     break;
 
                 case 5:
                     Console.WriteLine("Buscando palabra más larga...");
-                    // Llamar método
+                    frasesLargo();
                     break;
 
                 case 6:
@@ -231,14 +295,7 @@ class AdministracionEstudiante
                     break;
 
                 case 7:
-                    Console.Write("Palabra a reemplazar: ");
-                    string buscar = Console.ReadLine();
-
-                    Console.Write("Nueva palabra: ");
-                    string reemplazo = Console.ReadLine();
-
-                    Console.WriteLine("Reemplazando...");
-                    // Llamar método con buscar y reemplazo
+                    frasesReemplazo();
                     break;
 
                 case 8:
