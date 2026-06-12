@@ -36,8 +36,14 @@ class Program
                     inventario.Mostrar();
                 break;
                 case 3:
+                    
                 break;
                 case 4:
+                    Console.WriteLine("Ingresa el producto que quieres modificar");
+                    string Acodigo = Console.ReadLine();
+                    Console.WriteLine("Ingresa la cantidad de stock que cambiaras");
+                    int Astock = int.Parse(Console.ReadLine());
+                    inventario.ActualizarStock(Acodigo, Astock);
                 break;
                 case 5:
                 break;
@@ -69,11 +75,9 @@ class Producto
 
 class Inventario
 {
-    List<Producto> productos = new List<Producto>();
+    public List<Producto> productos = new List<Producto>();
     public void Agregar(string codigo, string nombre, double precio, int stock)
     {
-        bool veri = Verificar(codigo, precio, stock);
-        Console.WriteLine(veri);
         if (Verificar(codigo, precio, stock))
         {
             productos.Add(new Producto(codigo, nombre, precio, stock));
@@ -83,14 +87,23 @@ class Inventario
     {
         bool stockPositivo = stock >= 0;
         bool precioMayor = precio > 0;
-        //bool anyCodigo = productos.Any(p => p.Codigo == codigo);
-        return precioMayor && stockPositivo;
+        bool anyCodigo = productos.Any(p => p.Codigo == codigo);
+        return !anyCodigo && precioMayor && stockPositivo;
     }
     public void Mostrar()
     {
         foreach (Producto producto in productos)
         {
             Console.WriteLine($"{producto.Codigo} | {producto.Nombre} | {producto.Precio} | {producto.Stock}");
+        }
+    }
+
+    public void ActualizarStock(string codigo, int stock)
+    {
+        Producto p = productos.Find(c => c.Codigo == codigo);
+        if (p != null)
+        {
+            p.Stock = stock;
         }
     }
 
