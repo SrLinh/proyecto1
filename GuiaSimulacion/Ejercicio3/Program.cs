@@ -9,7 +9,8 @@ class Program
         bool condicional = true;
         do
         {
-            Console.WriteLine("Ingresat tu opcion");
+            Console.WriteLine(" ------------");
+            Console.WriteLine("Ingresa tu opcion");
             Console.WriteLine(" --- MENU ---");
             Console.WriteLine("1. Agregar producto");
             Console.WriteLine("2. Mostrar producto");
@@ -36,7 +37,9 @@ class Program
                     inventario.Mostrar();
                 break;
                 case 3:
-                    
+                    Console.WriteLine("Ingresa el Codigo del producto que quieres encontrar");
+                    Codigo = Console.ReadLine();
+                    inventario.Buscar(Codigo);
                 break;
                 case 4:
                     Console.WriteLine("Ingresa el producto que quieres modificar");
@@ -46,6 +49,9 @@ class Program
                     inventario.ActualizarStock(Acodigo, Astock);
                 break;
                 case 5:
+                    Console.WriteLine("Ingresa el Codigo del producto que quieres Eliminar");
+                    Codigo = Console.ReadLine();
+                    inventario.Borrar(Codigo);
                 break;
                 case 6:
                     condicional = false;
@@ -83,6 +89,19 @@ class Inventario
             productos.Add(new Producto(codigo, nombre, precio, stock));
         }
     }
+    public void Buscar(string codigo)       
+    {
+        Producto p = productos.Find(c => c.Codigo == codigo);
+        
+        if (p != null)
+        {
+            Console.Write($"{p.Codigo} | {p.Nombre} | {p.Precio} | {p.Stock}");
+        }
+        else
+        {
+            Console.WriteLine("No se encontró producto");
+        }
+    }
     public bool Verificar(string codigo, double precio, int stock)
     {
         bool stockPositivo = stock >= 0;
@@ -103,7 +122,26 @@ class Inventario
         Producto p = productos.Find(c => c.Codigo == codigo);
         if (p != null)
         {
+            Console.WriteLine($"El stock del producto {p.Nombre} se ha cambiado de {p.Stock} a {stock}");
             p.Stock = stock;
+        }
+        else
+        {
+            Console.WriteLine($"No se encontró producto con codigo {codigo}");
+        }
+    }
+
+    public void Borrar(string codigo)
+    {
+        Producto p = productos.Find(c => c.Codigo == codigo);
+        if (p != null)
+        {    
+            productos.Remove(p);
+            Console.WriteLine("El producto ha sido eliminado con exito");
+        }
+        else
+        {
+            Console.WriteLine("No se encontró producto");
         }
     }
 
