@@ -1,0 +1,15 @@
+Corps Ventas|1500
+Motorrest|12
+Almacen Victoria|1221
+MercaMonte|5200.43
+Malta|4565.46
+Zarco|450.32
+Temoltipulco|450
+Zanche|1111
+Victorino|122.42
+Zanche|554
+CasaCostra|1.1
+MercaMonte|520
+Zanche|11
+CasaCostra|1113
+MercaMonte|53200
